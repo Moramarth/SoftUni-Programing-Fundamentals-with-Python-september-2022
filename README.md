@@ -1,4 +1,4 @@
-# SoftUni-Programing-Fundamentals-with-Python-september-2022
+# SoftUni-Programming-Fundamentals-with-Python-september-2022
 
 Course homepage:
 
